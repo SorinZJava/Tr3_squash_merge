@@ -1,6 +1,7 @@
-Step1: branch Master-C1: edit line 1 & commit: "Step1"
+Step1: branch Master-C1: edit line 1 & commit: "Step1" - Edit line1
 Step2: branch Master-C2: edit line 2 & commit: "Step2"
-Step4:develop-C1: edit line 3 & commit: "Step4"
+Step4:develop-C1: edit line 3 & commit: "Step4" XXXXX
 Step5:develop-C2: edit line 4 & commit: "Step5"
 Step9:develop-C3 line 5 Edit line 5
 Step10:develop-C4 line6 Edit line 6
+Step11:develop-C5 line7
